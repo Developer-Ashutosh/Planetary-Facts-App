@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "League Spartan";
+    src: url('./LeagueSpartan-VariableFont.woff2');
+}
+
+@font-face {
+    font-family: "Antonio";
+    src: url('./Antonio-VariableFont.woff2');
+}
+
+[data-theme=mercury] {
+    --main: #419ebb
+}
+
+[data-theme=venus] {
+    --main: #eda249
+}
+
+[data-theme=earth] {
+    --main: #6d2ed5
+}
+
+[data-theme=mars] {
+    --main: #d14c32
+}
+
+[data-theme=jupiter] {
+    --main: #d83a34
+}
+
+[data-theme=saturn] {
+    --main: #cd5120
+}
+
+[data-theme=uranus] {
+    --main: #1ec1a2
+}
+
+[data-theme=neptune] {
+    --main: #2d68f0
+}
