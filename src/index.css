@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: "League Spartan";
-    src: url('./LeagueSpartan-VariableFont.woff2');
+    src: url('../LeagueSpartan-VariableFont.woff2');
 }
 
 @font-face {
     font-family: "Antonio";
-    src: url('./Antonio-VariableFont.woff2');
+    src: url('../Antonio-VariableFont.woff2');
 }
 
 [data-theme=mercury] {
